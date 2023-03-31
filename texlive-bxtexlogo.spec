@@ -1,6 +1,6 @@
 Name:		texlive-bxtexlogo
 Version:	63231
-Release:	1
+Release:	2
 Summary:	Additional TeX-family logos
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxtexlogo
